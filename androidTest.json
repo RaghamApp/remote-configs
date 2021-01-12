@@ -2,6 +2,6 @@
 {
   "latestVersion": "3.5.1",
   "supportPhone": "+989903741940",
-  "supportWhatsup": false,
-  "supportCrisp": false
+  "supportWhatsup": true,
+  "supportCrisp": true
 }
