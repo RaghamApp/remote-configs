@@ -1,4 +1,14 @@
-[
+[{
+    "id": "unlimited-monthly-subscription",
+    "index": 1,
+    "hidden": false,
+    "name": "unlimited-monthly-subscription",
+    "price": 29000,
+    "durationDays": 30,
+    "description": null,
+    "priceBeforeDiscount": 29000,
+    "isFeatured": false
+  },
   {
     "id": "unlimited-3-months-subscription",
     "index": 2,
