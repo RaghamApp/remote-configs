@@ -31,5 +31,16 @@
     "description": null,
     "priceBeforeDiscount": 144000,
     "isFeatured": false
+  },
+  {
+    "id": "609113e86deaf919ba7578b3",
+    "index": 4,
+    "hidden": false,
+    "name": "unlimited-12-months-subscription",
+    "price": 195000,
+    "durationDays": 360,
+    "description": null,
+    "priceBeforeDiscount": 288000,
+    "isFeatured": false
   }
 ]
