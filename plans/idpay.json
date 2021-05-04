@@ -11,19 +11,8 @@
     "isFeatured": false
   },
   {
-    "id": "5f81ba7a1fe9bd62f6e04fd7",
-    "index": 2,
-    "hidden": false,
-    "name": "unlimited-3-months-subscription",
-    "price": 65700,
-    "durationDays": 90,
-    "description": null,
-    "priceBeforeDiscount": 72000,
-    "isFeatured": true
-  },
-  {
     "id": "5f81bab91fe9bd62f6e04fd8",
-    "index": 3,
+    "index": 2,
     "hidden": false,
     "name": "unlimited-6-months-subscription",
     "price": 107400,
@@ -34,7 +23,7 @@
   },
   {
     "id": "609113e86deaf919ba7578b3",
-    "index": 4,
+    "index": 3,
     "hidden": false,
     "name": "unlimited-12-months-subscription",
     "price": 195000,
