@@ -1,15 +1,14 @@
 {
-  "latestVersion": "3.7.4",
-  "supportPhone": "+989371570907",
-  "supportWhatsup": true,
-  "supportCrisp": true,
-  "smsTemplates":
-    {"receiveNowCreditor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان طلبکار هستید \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
-"receiveNowDebtor" : "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان بدهکار هستید \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
-"sendNowCreditor" : "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: newBalance تومان طلبکار هستید \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
-"sendNowDebtor" : "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: newBalance تومان بدهکار هستید \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
-"receiveNowSettle" : "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
-"sendNowSettle" : "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
-
-}
+   "latestVersion":"3.7.4",
+   "supportPhone":"+989371570907",
+   "supportWhatsup":true,
+   "supportCrisp":true,
+   "smsTemplates":{
+      "receiveNowCreditor":"رسید تراکنش \\n\\ncredit  تومان از name دریافت کردید \\n مانده کل: newBalance تومان طلبکار هستید \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)",
+      "receiveNowDebtor":"رسید تراکنش \\n\\ncredit  تومان از name دریافت کردید \\n مانده کل: newBalance تومان بدهکار هستید \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)",
+      "sendNowCreditor":"رسید تراکنش \\n\\ncredit  تومان به name پرداخت کردید \\n مانده کل: newBalance تومان طلبکار هستید \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)",
+      "sendNowDebtor":"رسید تراکنش \\n\\ncredit  تومان به name پرداخت کردید \\n مانده کل: newBalance تومان بدهکار هستید \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)",
+      "receiveNowSettle":"رسید تراکنش \\n\\ncredit  تومان از name دریافت کردید \\n مانده کل: تسویه شده \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)",
+      "sendNowSettle":"رسید تراکنش \\n\\ncredit  تومان به name پرداخت کردید \\n مانده کل: تسویه شده \\n\\nموبایل phone \\n \\nشرح تراکنش و جزییات بیشتر \\n (لینک)"
+   }
 }
