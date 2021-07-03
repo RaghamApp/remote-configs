@@ -1,8 +1,8 @@
 {
    "latestVersion": "3.7.4",
-   "supportPhone": "+989371570907",
+   "supportPhone": "+989903741940",
    "supportWhatsup": true,
-   "supportCrisp": true,
+   "supportCrisp": false,
    "smsTemplates": {
       "receiveNowCreditor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان طلبکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
       "receiveNowDebtor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان بدهکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
