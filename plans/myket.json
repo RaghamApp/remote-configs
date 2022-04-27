@@ -31,5 +31,15 @@
     "description": null,
     "priceBeforeDiscount": 174000,
     "isFeatured": false
+  },
+  {
+    "id":"test",
+    "index": 4,
+    "name": "test",
+    "price": 1000,
+    "durationDays": 1,
+    "description": null,
+    "priceBeforeDiscount": 2000,
+    "isFeatured": false
   }
 ]
