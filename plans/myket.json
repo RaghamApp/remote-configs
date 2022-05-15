@@ -1,45 +1,34 @@
-[
-  {
+[{
     "id": "unlimited-monthly-subscription",
     "index": 1,
     "hidden": false,
     "name": "unlimited-monthly-subscription",
-    "price": 29000,
+    "price": 24000,
     "durationDays": 30,
     "description": null,
-    "priceBeforeDiscount": 29000,
+    "priceBeforeDiscount": 24000,
     "isFeatured": false
-  },
-  {
-    "id": "unlimited-3-months-subscription",
-    "index": 2,
-    "hidden": false,
-    "name": "unlimited-3-months-subscription",
-    "price": 80700,
-    "durationDays": 90,
-    "description": null,
-    "priceBeforeDiscount": 87000,
-    "isFeatured": true
   },
   {
     "id": "unlimited-6-months-subscription",
-    "index": 3,
+    "index": 2,
     "hidden": false,
     "name": "unlimited-6-months-subscription",
-    "price": 137400,
+    "price": 107400,
     "durationDays": 180,
     "description": null,
-    "priceBeforeDiscount": 174000,
+    "priceBeforeDiscount": 144000,
     "isFeatured": false
   },
   {
-    "id":"test",
-    "index": 4,
-    "name": "test",
-    "price": 1000,
-    "durationDays": 1,
+    "id": "unlimited-12-months-subscription",
+    "index": 3,
+    "hidden": false,
+    "name": "unlimited-12-months-subscription",
+    "price": 195000,
+    "durationDays": 360,
     "description": null,
-    "priceBeforeDiscount": 2000,
+    "priceBeforeDiscount": 288000,
     "isFeatured": false
   }
 ]
