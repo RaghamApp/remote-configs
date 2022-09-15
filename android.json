@@ -3,7 +3,7 @@
    "supportPhone": "+989371570907",
    "supportWhatsup": true,
    "supportCrisp": false,
-   "vitrineLink": "https://rahgam.shop/vitrine?phone="
+   "vitrineLink": "https://rahgam.shop/vitrine?phone=",
    "smsTemplates": {
       "receiveNowCreditor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان طلبکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
       "receiveNowDebtor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان بدهکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
