@@ -1,0 +1,14 @@
+{
+   id: 'unlimited-refer-6-months-subscription',
+   index: 1,
+   hidden: false,
+   name: 'unlimited-refer-6-months-subscription',
+   price: 150000,
+   durationDays: 180,
+   description: '',
+   priceBeforeDiscount: 240000,
+   isFeatured: false,
+   idpayId: 'unlimited-refer-6-months-subscription',
+   myketId: 'unlimited-refer-6-months-subscription',
+   bazarId: 'unlimited-refer-6-months-subscription',
+}
