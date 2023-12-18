@@ -12,5 +12,6 @@
       "sendNowDebtor": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: newBalance تومان بدهکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
       "receiveNowSettle": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
       "sendNowSettle": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
-   }
+   },
+   "showUpdates": 0
 }
