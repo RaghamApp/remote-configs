@@ -1,0 +1,34 @@
+[{
+    "id": "111",
+    "index": 1,
+    "hidden": false,
+    "name": "111",
+    "price": 40000,
+    "durationDays": 30,
+    "description": null,
+    "priceBeforeDiscount": 40000,
+    "isFeatured": false
+  },
+  {
+    "id": "test",
+    "index": 2,
+    "hidden": false,
+    "name": "test",
+    "price": 180000,
+    "durationDays": 180,
+    "description": null,
+    "priceBeforeDiscount": 240000,
+    "isFeatured": false
+  },
+  {
+    "id": "unlimited-12-months-subscription",
+    "index": 3,
+    "hidden": false,
+    "name": "unlimited-12-months-subscription",
+    "price": 320000,
+    "durationDays": 360,
+    "description": null,
+    "priceBeforeDiscount": 480000,
+    "isFeatured": false
+  }
+]
