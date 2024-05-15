@@ -3,10 +3,10 @@
     "index": 1,
     "hidden": false,
     "name": "111",
-    "price": 40000,
+    "price": 41111,
     "durationDays": 30,
     "description": null,
-    "priceBeforeDiscount": 40000,
+    "priceBeforeDiscount": 400000,
     "isFeatured": false
   },
   {
