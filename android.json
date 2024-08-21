@@ -14,7 +14,7 @@
       "sendNowSettle": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
    },
    "showUpdates": 0,
-   "latestVersionCode": 140,
+   "latestVersionCode": 141,
    "downloadLink": "https://beta.raghamapp.com/download", 
-   "minBillLimit": 10000
+   "minBillLimit": 5
 }
