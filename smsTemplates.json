@@ -1,0 +1,97 @@
+[
+  {
+    "id": "bki_bank",
+    "bankName": "بانک کشاورزی",
+    "addresses": [
+      "KESHAVARZI",
+      "9850001575",
+      "98500015",
+      "500015",
+      "9850001575",
+      "5374282794"
+    ],
+    "regexes": [
+      {
+        "id": "bki_rgx_1",
+        "regex": "خريد([\\d,]+)",
+        "type": "withdraw",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_2",
+        "regex": "برداشت([\\d,]+)",
+        "type": "withdraw",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_3",
+        "regex": "برداشت پايا([\\d,]+)",
+        "type": "withdraw",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_4",
+        "regex": "کارمزد پايا([\\d,]+)",
+        "type": "withdraw",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_5",
+        "regex": "پرداخت قبض([\\d,]+)",
+        "type": "withdraw",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_6",
+        "regex": "واريز([\\d,]+)",
+        "type": "deposit",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_7",
+        "regex": "واريز پايا([\\d,]+)",
+        "type": "deposit",
+        "bankId": "bki_bank"
+      },
+      {
+        "id": "bki_rgx_8",
+        "regex": "واريز ساتنا([\\d,]+)",
+        "type": "deposit",
+        "bankId": "bki_bank"
+      }
+    ]
+  },
+  {
+    "id": "tjrt_bank",
+    "bankName": "بانک تجارت",
+    "addresses": [
+      "TejaratBank"
+    ],
+    "regexes": [
+      {
+        "id": "tjrt_rgx_1",
+        "regex": "برداشت: ([\\d,]+) ریال",
+        "type": "withdraw",
+        "bankId": "tjrt_bank"
+      },
+      {
+        "id": "tjrt_rgx_2",
+        "regex": "واریز: ([\\d,]+) ریال",
+        "type": "deposit",
+        "bankId": "tjrt_bank"
+      },
+      {
+        "id": "tjrt_rgx_3",
+        "regex": "برداشت: ([\\d,]+) ریال",
+        "type": "withdraw",
+        "bankId": "tjrt_bank"
+      },
+      {
+        "id": "tjrt_rgx_4",
+        "regex": "واریز: ([\\d,]+) ریال",
+        "type": "deposit",
+        "bankId": "tjrt_bank"
+      }
+    ]
+  }
+]
