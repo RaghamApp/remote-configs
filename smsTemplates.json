@@ -124,6 +124,12 @@
         "regex": "$واریز\\b",
         "type": "deposit_checker",
         "bankId": "mellat_bank"
+      },
+      {
+        "id": "mellat_bank_rgx_4",
+        "regex": "$واریز",
+        "type": "deposit_checker",
+        "bankId": "mellat_bank"
       }
     ]
   }
