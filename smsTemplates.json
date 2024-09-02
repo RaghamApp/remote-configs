@@ -93,5 +93,26 @@
         "bankId": "tjrt_bank"
       }
     ]
+  },
+  {
+    "id": "mellat_bank",
+    "bankName": "بانک ملت",
+    "addresses": [
+      "Bank Mellat"
+    ],
+    "regexes": [
+      {
+        "id": "mellat_bank_rgx_1",
+        "regex": "\\d{1,3}(?:,\\d{3})+",
+        "type": "price",
+        "bankId": "mellat_bank"
+      },
+      {
+        "id": "mellat_bank_rgx_2",
+        "regex": "\\b$واریز\\b",
+        "type": "deposit_checker",
+        "bankId": "mellat_bank"
+      }
+    ]
   }
 ]
