@@ -146,6 +146,30 @@
         "regex": "برداشت",
         "type": "withdraw_check",
         "bankId": "melli_bank"
+      },
+      {
+        "id": "melli_bank_rgx_4",
+        "regex": "خودپرداز",
+        "type": "withdraw_check",
+        "bankId": "melli_bank"
+      },
+      {
+        "id": "melli_bank_rgx_5",
+        "regex": "خريداينترنتي",
+        "type": "withdraw_check",
+        "bankId": "melli_bank"
+      },
+      {
+        "id": "melli_bank_rgx_6",
+        "regex": "انتقال:\\d{1,3}(,\\d{3})*-",
+        "type": "withdraw_check",
+        "bankId": "melli_bank"
+      },
+      {
+        "id": "melli_bank_rgx_7",
+        "regex": "انتقال:\\d{1,3}(,\\d{3})*\\+",
+        "type": "deposit_check",
+        "bankId": "melli_bank"
       }
     ]
   }
