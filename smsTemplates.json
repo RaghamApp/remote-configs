@@ -107,40 +107,16 @@
         "type": "price",
         "bankId": "mellat_bank"
       },
-      {
+     {
         "id": "mellat_bank_rgx_2",
-        "regex": "\\b$واریز\\b",
-        "type": "deposit_checker",
+        "regex": "واریز",
+        "type": "deposit_check",
         "bankId": "mellat_bank"
       },
       {
         "id": "mellat_bank_rgx_3",
-        "regex": "\\b$واریز",
-        "type": "deposit_checker",
-        "bankId": "mellat_bank"
-      },
-      {
-        "id": "mellat_bank_rgx_4",
-        "regex": "$واریز\\b",
-        "type": "deposit_checker",
-        "bankId": "mellat_bank"
-      },
-      {
-        "id": "mellat_bank_rgx_5",
-        "regex": "واریز",
-        "type": "deposit_checker",
-        "bankId": "mellat_bank"
-      },
-      {
-        "id": "mellat_bank_rgx_6",
-        "regex": "$واریز\\d{1,3}(?:,\\d{3})+",
-        "type": "deposit_checker",
-        "bankId": "mellat_bank"
-      },
-      {
-        "id": "mellat_bank_rgx_7",
-        "regex": "\\d{1,3}(?:,\\d{3})+$واریز",
-        "type": "deposit_checker",
+        "regex": "برداشت",
+        "type": "withdraw_check",
         "bankId": "mellat_bank"
       }
     ]
