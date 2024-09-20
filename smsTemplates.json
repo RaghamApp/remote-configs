@@ -1,7 +1,7 @@
 [
   {
     "id": "keshavarzi_bank",
-    "bankName": "بانک کشاورزی",
+    "bankName": "کشاورزی",
     "addresses": [
       "KESHAVARZI",
       "9850001575",
@@ -19,36 +19,8 @@
     ]
   },
   {
-    "id": "tejarat_bank",
-    "bankName": "بانک تجارت",
-    "addresses": [
-      "TejaratBank"
-    ],
-    "patterns": [
-      {
-        "isDeposit": "و[اا][رر][يیي][زذ]",
-        "isWithdraw": "ب[َ]?[ر][د]?[ا][ش][ت]",
-        "amountMatcher": "(?:و[اا][رر][يیي][زذ]|ب[َ]?[ر][د]?[ا][ش][ت]).*\\s+\\d{1,3}(?:,\\d{3})+"
-      }
-    ]
-  },
-  {
-    "id": "resalat_bank",
-    "bankName": "بانک رسالت",
-    "addresses": [
-      "ResalatBank"
-    ],
-    "patterns": [
-      {
-        "isDeposit": "(?:\\+)\\s?+\\d{1,3}(?:,\\d{3}.+)",
-        "isWithdraw": "(?:\\-)\\s?+\\d{1,3}(?:,\\d{3}.+)",
-        "amountMatcher": "(?:\\+|-)\\s?+\\d{1,3}(?:,\\d{3}.+)"
-      }
-    ]
-  },
-  {
     "id": "pasargad_bank",
-    "bankName": "بانک پاسارگاد",
+    "bankName": "پاسارگاد",
     "addresses": [
       "B.Pasargad"
     ],
@@ -62,7 +34,7 @@
   },
   {
     "id": "ayandeh_bank",
-    "bankName": "بانک آینده",
+    "bankName": "آینده",
     "addresses": [
       "AyandehBank"
     ],
@@ -76,9 +48,9 @@
   },
   {
     "id": "mehr_bank",
-    "bankName": "بانک قرض الحسنه مهرايران",
+    "bankName": "مهر ايران",
     "addresses": [
-      "10008528"
+      "+9810008528"
     ],
     "patterns": [
       {
@@ -90,7 +62,7 @@
   },
   {
     "id": "sina_bank",
-    "bankName": "بانک سینا",
+    "bankName": "سینا",
     "addresses": [
       "500019"
     ],
@@ -104,9 +76,11 @@
   },
   {
     "id": "blu_bank",
-    "bankName": "بلوبانک",
+    "bankName": "بلو",
     "addresses": [
-      "09999987641"
+      "98300087641",
+        "9830008764",
+      "+989999987641"
     ],
     "patterns": [
       {
@@ -118,7 +92,7 @@
   },
   {
     "id": "melli_bank",
-    "bankName": "بانک ملی",
+    "bankName": "ملی",
     "addresses": [
       "09830009417",
       "9830009417",
@@ -133,24 +107,10 @@
     ]
   },
   {
-    "id": "mellat_bank",
-    "bankName": "بانک ملت",
-    "addresses": [
-      "Bank Mellat"
-    ],
-    "patterns": [
-      {
-        "isDeposit": "وار[يیي]ز\\s?+.*\\d{1,3},\\d{3}",
-        "isWithdraw": "برداشت\\s?+.*\\d{1,3},\\d{3}",
-        "amountMatcher": "(?:وار[يیي]ز|برداشت)\\s?+.*\\d{1,3},\\d{3}"
-      }
-    ]
-  },
-  {
     "id": "saman_bank",
-    "bankName": "بانک سامان",
+    "bankName": "سامان",
     "addresses": [
-      "09999920000"
+      "+989999920000"
     ],
     "patterns": [
       {
@@ -162,7 +122,7 @@
   },
   {
     "id": "saderat_bank",
-    "bankName": "بانک صادرات",
+    "bankName": "صادرات",
     "addresses": [
       "+98700719",
       "3000940"
@@ -177,7 +137,7 @@
   },
   {
     "id": "en_bank",
-    "bankName": "بانک اقتصاد نوین",
+    "bankName": "اقتصاد نوین",
     "addresses": [
       "ENBank"
     ],
@@ -191,7 +151,7 @@
   },
   {
     "id": "maskan_bank",
-    "bankName": "بانک مسکن",
+    "bankName": "مسکن",
     "addresses": [
       "Bank Maskan"
     ],
@@ -200,28 +160,6 @@
         "isDeposit": "(?:وار[يیي]ز).*\\d{1,3}(?:,\\d{3}\\+)",
         "isWithdraw": "(?:خر[يیي]د|انتقال).*\\d{1,3}(?:,\\d{3}-)",
         "amountMatcher": "(?:وار[يیي]ز|خر[يیي]د|انتقال).*\\d{1,3}(?:,\\d{3}[\\+-])"
-      }
-    ]
-  },
-
-
-
-
-
-
-
-
-  {
-    "id": "wepod_pasargad",
-    "bankName": "ویپاد",
-    "addresses": [
-      "5000114"
-    ],
-    "patterns": [
-      {
-        "isDeposit": "و[اا][رر][يیي][زذ]",
-        "isWithdraw": "شناسه|برداشت",
-        "amountMatcher": "^(.*(مبلغ|سامانه).*)$"
       }
     ]
   }
