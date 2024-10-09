@@ -13,7 +13,7 @@
       "receiveNowSettle": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
       "sendNowSettle": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
    },
-   "showUpdates": 0,
+   "showUpdates": 1,
    "latestVersionCode": 145,
    "downloadLink": "https://beta.raghamapp.com/download", 
    "minBillLimit": 500
