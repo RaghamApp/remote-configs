@@ -1,5 +1,5 @@
 {
-   "latestVersion": "4.12.6",
+   "latestVersion": "4.12.7",
    "supportPhone": "+989371570907",
    "supportWhatsup": true,
    "showReview": false,
@@ -14,7 +14,7 @@
       "sendNowSettle": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
    },
    "showUpdates": 0,
-   "latestVersionCode": 150,
+   "latestVersionCode": 151,
    "downloadLink": "https://beta.raghamapp.com/download", 
    "minBillLimit": 300
 }
