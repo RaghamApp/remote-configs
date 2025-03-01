@@ -19,5 +19,6 @@
    "minBillLimit": 300,
    "smsWalletEnabled": false,
    "smsWalletPaymentLinkTemplate": "https://example.com/path?userId={userId}&phone={phone}",
-   "showContactSupportBtnInHome": false 
+   "showContactSupportBtnInHome": true,
+   "supportPhoneAvailable": false
 }
