@@ -17,8 +17,8 @@
    "latestVersionCode": 155,
    "downloadLink": "https://beta.raghamapp.com/download", 
    "minBillLimit": 300,
-   "smsWalletEnabled": false,
+   "smsWalletEnabled": true,
    "smsWalletPaymentLinkTemplate": "https://example.com/path?userId={userId}&phone={phone}",
    "showContactSupportBtnInHome": true,
-   "supportPhoneAvailable": false
+   "supportPhoneAvailable": true
 }
