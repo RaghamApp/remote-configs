@@ -3,10 +3,10 @@
     "index": 1,
     "hidden": false,
     "name": "unlimited-monthly-subscription",
-    "price": 140000,
+    "price": 250000,
     "durationDays": 30,
     "description": null,
-    "priceBeforeDiscount": 140000,
+    "priceBeforeDiscount": 250000,
     "isFeatured": false
   },
   {
@@ -14,10 +14,10 @@
     "index": 2,
     "hidden": false,
     "name": "unlimited-6-months-subscription",
-    "price": 680000,
+    "price": 1100000,
     "durationDays": 180,
     "description": null,
-    "priceBeforeDiscount": 840000,
+    "priceBeforeDiscount": 1500000,
     "isFeatured": false
   },
   {
