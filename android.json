@@ -20,5 +20,5 @@
    "smsWalletEnabled": false,
    "smsWalletPaymentLinkTemplate": "https://example.com/path?userId={userId}&phone={phone}",
    "showContactSupportBtnInHome": true,
-   "supportPhoneAvailable": false
+   "supportPhoneAvailable": true
 }
