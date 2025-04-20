@@ -20,5 +20,8 @@
    "smsWalletEnabled": false,
    "smsWalletPaymentLinkTemplate": "https://example.com/path?userId={userId}&phone={phone}",
    "showContactSupportBtnInHome": true,
-   "supportPhoneAvailable": false
+   "supportPhoneAvailable": false,
+   "sharedPartnerAvailable": true,
+   "sharedPartnerNotAvailableTitle": "صورتحساب های زنده در دسترس نیست",
+   "sharedPartnerNotAvailableMessage": "همکاران ما درحال بروزرسانی هستند"
 }
