@@ -23,5 +23,8 @@
    "supportPhoneAvailable": true,
    "sharedPartnerAvailable": true,
    "sharedPartnerNotAvailableTitle": "صورتحساب های زنده در دسترس نیست",
-   "sharedPartnerNotAvailableMessage": "همکاران ما درحال بروزرسانی هستند"
+   "sharedPartnerNotAvailableMessage": "همکاران ما درحال بروزرسانی هستند",
+   "isServerAvailable" : true,
+   "serverNotAvailableErrorTitle" : "خطای سرور",
+   "serverNotAvailableErrorMessage" : "همکاران ما درحال بروزرسانی سرور هستند. لطفا ساعاتی دیگر دوباره امتحان کنید. با تشکر",
 }
