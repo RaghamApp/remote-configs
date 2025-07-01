@@ -27,5 +27,5 @@
    "isServerAvailable" : true,
    "serverNotAvailableErrorTitle" : "حالت آفلاین",
    "serverNotAvailableErrorMessage" : "همکاران ما درحال بروزرسانی سرور هستند. لطفا ساعاتی دیگر دوباره امتحان کنید. با تشکر",
-   "tutorialsEnabled" : false
+   "tutorialsEnabled" : true
 }
