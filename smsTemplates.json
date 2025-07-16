@@ -519,9 +519,23 @@
   },
   {
     "id": "iran_zamin_bank",
-    "bankName": "بانک ایران‌زمین",
+    "bankName": "ایران‌زمین",
     "addresses": [
       "IZBANK"
+    ],
+    "patterns": [
+      {
+        "isDeposit": "(?:\\+\\b\\d{1,3}(?:,\\d{3})+\\b)|(?:\\b\\d{1,3}(?:,\\d{3})+(?=\\+))",
+        "isWithdraw": "(?:-\\b\\d{1,3}(?:,\\d{3})+\\b)|(?:\\b\\d{1,3}(?:,\\d{3})+(?=-))",
+        "amountMatcher": "(?:[-\\+]\\b\\d{1,3}(?:,\\d{3})+\\b)|(?:\\b\\d{1,3}(?:,\\d{3})+(?=[-\\+]))"
+      }
+    ]
+  },
+  {
+    "id": "parsian_bank",
+    "bankName": "پارسیان",
+    "addresses": [
+      "PARSIANBANK"
     ],
     "patterns": [
       {
