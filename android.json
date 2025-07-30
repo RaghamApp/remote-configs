@@ -29,5 +29,5 @@
    "serverNotAvailableErrorMessage" : "همکاران ما درحال بروزرسانی سرور هستند. لطفا ساعاتی دیگر دوباره امتحان کنید. با تشکر",
    "tutorialsEnabled" : true,
    "arcaptchaSecret" : "v9xcziw5pr",
-   "arcaptchaEnabled" : false
+   "arcaptchaEnabled" : true
 }
