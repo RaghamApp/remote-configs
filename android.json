@@ -30,5 +30,5 @@
    "tutorialsEnabled" : true,
    "arcaptchaSecret" : "v9xcziw5pr",
    "arcaptchaEnabled" : true,
-   "captureAndroidDbSignature" : true
+   "captureAndroidDbSignature" : false
 }
