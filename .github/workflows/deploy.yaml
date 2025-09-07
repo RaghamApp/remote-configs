@@ -1,0 +1,25 @@
+name: liara-deploy
+on:
+  push:
+    branches:
+      - main
+      - gh-pages
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+
+      - name: Setup Node.js
+        uses: actions/setup-node@5
+        with:
+          node-version: '22'
+
+      - name: Liara Deploy
+        env:
+          LIARA_TOKEN: ${{ secrets.LIARA_API_TOKEN }}
+        run: |
+          npx @liara/cli@9 deploy --app="rghm-remote-config" --api-token="$LIARA_TOKEN" --no-app-logs
