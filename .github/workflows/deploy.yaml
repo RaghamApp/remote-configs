@@ -6,6 +6,7 @@ on:
       - gh-pages
 jobs:
   deploy:
+    environment: production
     runs-on: ubuntu-latest
 
     steps:
@@ -14,7 +15,7 @@ jobs:
 
 
       - name: Setup Node.js
-        uses: actions/setup-node@5
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
 
