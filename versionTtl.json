@@ -1,5 +1,14 @@
 [
   {
+    "versionCode": "170",
+    "versionTtl": "2025-11-17T00:00:00+0000",
+    "versionName": "4.20.0",
+    "changeLog": [
+      "اضافه شدن دعوت از دوستان",
+      "رفع اشکال جزیی"
+    ]
+  },
+  {
     "versionCode": "169",
     "versionTtl": "2025-11-03T00:00:00+0000",
     "versionName": "4.19.0",
