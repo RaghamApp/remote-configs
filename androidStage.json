@@ -1,0 +1,37 @@
+{
+   "latestVersion": "4.18.0",
+   "supportPhone": "+989170073253",
+   "callCenter" : "02182801940",
+   "supportWhatsup": true,
+   "showReview": true,
+   "supportCrisp": false,
+   "vitrineLink": "https://ragham.shop/",
+   "smsTemplates": {
+      "receiveNowCreditor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان طلبکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
+      "receiveNowDebtor": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: newBalance تومان بدهکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
+      "sendNowCreditor": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: newBalance تومان طلبکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
+      "sendNowDebtor": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: newBalance تومان بدهکار  \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
+      "receiveNowSettle": "رسید تراکنش \n\ncredit  تومان از name دریافت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)",
+      "sendNowSettle": "رسید تراکنش \n\ncredit  تومان به name پرداخت کردید \n مانده کل: تسویه شده \n\nموبایل phone \n \nشرح تراکنش و جزییات بیشتر \n (لینک)"
+   },
+   "showUpdates": 1,
+   "latestVersionCode": 168,
+   "downloadLink": "https://web.raghamapp.com/download", 
+   "minBillLimit": 300,
+   "smsWalletEnabled": true,
+   "smsWalletPaymentLinkTemplate": "https://web.raghamapp.com/payment/sms?userId={userId}",
+   "showContactSupportBtnInHome": true,
+   "supportPhoneAvailable": true,
+   "sharedPartnerAvailable": true,
+   "sharedPartnerNotAvailableTitle": "صورتحساب های زنده در دسترس نیست",
+   "sharedPartnerNotAvailableMessage": "همکاران ما درحال بروزرسانی هستند",
+   "isServerAvailable" : true,
+   "serverNotAvailableErrorTitle" : "حالت آفلاین",
+   "serverNotAvailableErrorMessage" : "همکاران ما درحال بروزرسانی سرور هستند. لطفا ساعاتی دیگر دوباره امتحان کنید. با تشکر",
+   "tutorialsEnabled" : true,
+   "arcaptchaSecret" : "v9xcziw5pr",
+   "arcaptchaEnabled" : false,
+   "captureAndroidDbSignature" : false
+
+  support
+}
