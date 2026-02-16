@@ -5,7 +5,7 @@
    "supportWhatsup": true,
    "supportSms": true,
    "smsPhone" : "+989170073253",
-   "supportRubika": true,
+   "supportRubika": false,
    "supportEitaa": true,
    "showReview": true,
    "supportCrisp": false,
